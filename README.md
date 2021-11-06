@@ -1,5 +1,5 @@
 # KPI_labs
-* My works at KPI university
+__ My works at KPI university__
 * student - Doniev Danylo
 * language - c#
 * .NET version - 5.0
