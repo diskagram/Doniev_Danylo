@@ -3,7 +3,8 @@ using RestSharp;
 using System.Text.Json;
 using NUnit.Framework;
 
-
+namespace j k 
+{
 
 
 public class IdParse
@@ -145,4 +146,4 @@ class MyPostman
 
     }
 
-}
+}}
